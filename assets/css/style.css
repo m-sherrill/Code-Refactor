@@ -1,4 +1,4 @@
-/* GENERAL */
+/* General */
 
 * {
     box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* HEADER */
+/* Header */
 
 header {
     padding: 20px;
@@ -45,7 +45,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* TEXT STYLES */
+/* Text Styles */
 
 a {
     color: #ffffff;
@@ -105,7 +105,7 @@ p {
     color: #ffffff;
 }
 
-/* BENEFITS */
+/* Benefits */
 
 .benefits {
     margin-right: 20px;
@@ -134,7 +134,7 @@ p {
     color: #ffffff;
 }
 
-/* FOOTER */
+/* Footer */
 
 footer {
     padding: 30px;
