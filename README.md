@@ -1,4 +1,4 @@
-# Code Refractor
+# Code Refactor
 
 Homework #1 - Code Refactoring - Using HTML, CSS, and Git
 
@@ -10,15 +10,21 @@ To align the site with accessability standards, I added "alt" information to ima
 
 ## Link to GitHub main project page
 
-[Code Refactor Project Page on GitHub](https://github.com/m-sherrill)
+[Code Refactor Project Page on GitHub](https://github.com/m-sherrill/code-refactor)
 
 ## Link to Deployed Application
 
-[Live Depoyment Link](https://github.com/m-sherrill)
+[Live Depoyment Link](https://m-sherrill.github.io/code-refactor/)
 
 ## Screenshot of Deployed Application 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+Header, Navigation, and Hero
+
+![This is an image](./assets/images/screenshot-navigation-hero.jpg)
+
+Content
+
+![This is an image](./assets/images/screenshot-content.jpg)
 
 ## Contact Information
 
