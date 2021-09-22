@@ -20,11 +20,11 @@ To align the site with accessability standards, I added "alt" information to ima
 
 Header, Navigation, and Hero
 
-![This is an image](./assets/images/screenshot-navigation-hero.jpg)
+![Screenshot of hero image and navigation](./assets/images/screenshot-navigation-hero.jpg)
 
 Content
 
-![This is an image](./assets/images/screenshot-content.jpg)
+![Screenshot of content](./assets/images/screenshot-content.jpg)
 
 ## Contact Information
 
